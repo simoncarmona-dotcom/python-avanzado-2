@@ -128,3 +128,17 @@ A lo largo de este proyecto pude reforzar y profundizar en los conceptos fundame
 - **Funciones**: Entendí la importancia de documentar funciones con docstrings, cómo usar parámetros flexibles (*args, **kwargs), y que las funciones en Python son ciudadanos de primera clase (se pueden pasar como argumentos). La recursividad me enseñó a pensar en problemas de forma diferente, descomponiéndolos en subproblemas más simples.
 
 - **Buenas prácticas**: Cada archivo incluye comentarios explicativos, docstrings con formato estándar, y separación clara entre ejercicios, lo que facilita la lectura y mantenimiento del código.
+---
+
+## Evidencia de Ejecución
+
+A continuación, se presentan algunas capturas de pantalla que demuestran la correcta ejecución de los scripts desarrollados en los diferentes módulos:
+
+### 1. Captura de Ejecución 1
+![Captura 1](imagenes/captura1.png)
+
+### 2. Captura de Ejecución 2
+![Captura 2](imagenes/captura2.png)
+
+### 3. Captura de Ejecución 3
+![Captura 3](imagenes/captura3.png)
